@@ -1,0 +1,8 @@
+POST http://localhost:3000/todos
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidG9kb191c2VyIn0.YuXEiv_E2rA9wy27pKDHI4dL-uNViYema2b5vP7uhyo
+Content-Type: application/json
+
+{
+     "title": "learn how to auth",
+     "description": "learn how to auth description"
+}
